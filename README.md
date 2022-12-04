@@ -4,7 +4,7 @@ This repository contains code implemented as a part of the Information Retrieval
 ### Contents of the repo:
 <ul>
 <li><a href="https://github.com/rohilrao/IR-NLP-Fake-News/tree/main/src/notebooks">Notebook code files</a></li>
-<li>Code for the app</li>
+<li>Code for the <a href="https://github.com/rohilrao/IR-NLP-Fake-News/tree/main/src/app">app</a></li>
 <li><a href="https://github.com/rohilrao/IR-NLP-Fake-News/blob/main/src/presentation_rohil.pdf">Presentation slides</a> with an overview of results obtained</li> 
 <li><a href="https://github.com/rohilrao/IR-NLP-Fake-News/blob/main/src/IR_Lab_Report_FakeNews_Team2.pdf">Report</a> with explanations and results for models from all group members</li> 
 </ul>
